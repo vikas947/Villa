@@ -2,7 +2,8 @@
   "name": "Vardhan Beach Farmhouse",
   "short_name": "Vardhan Beach",
   "description": "Private 4BHK pool villa for groups up to 20 near Rajodi Beach, Nalasopara West, Mumbai.",
-  "start_url": "/",
+  "start_url": "./",
+  "scope": "./"
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#F8FAFC",
